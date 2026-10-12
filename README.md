@@ -62,4 +62,4 @@ Repository: [github.com/arditdema/wazuh-soc-lab](https://github.com/arditdema/wa
 ## Contact
 
 - Email: ardit.dema@outlook.com
-- LinkedIn: [linkedin.com/in/arditdema](https://www.linkedin.com/in/ardit-dema-94b2b441b/)
+- LinkedIn: [linkedin.com/in/arditdema](https://www.linkedin.com/in/ardit-dema)
